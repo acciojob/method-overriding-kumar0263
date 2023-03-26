@@ -1,6 +1,6 @@
 package com.driver;
 
-public class class_B extends class_A{
+public class B extends A{
     @Override
     public  String meth(){
         return "Method is Overridden in Extended class B";
